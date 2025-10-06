@@ -1,4 +1,5 @@
 #栈+计数
+#参考https://leetcode.cn/problems/remove-k-balanced-substrings/solutions/3798502/lin-xiang-xiao-chu-wen-ti-de-tao-lu-zhan-kb1j/
 class Solution:
     def removeSubstring(self, s: str, k: int) -> str:
         stack = []
